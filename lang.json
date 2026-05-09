@@ -1,23 +1,48 @@
 {
   "RU": {
-    "main": ["КЛИНЕР", "ТВИКЕР", "НАСТРОЙКИ", "ИНФО", "ВЫХОД"],
-    "nav": ["НАЗАД", "ГОТОВО"],
-    "clean": ["КЭШ (ИГРЫ)", "СИСТЕМА", "CS2/STEAM", "DISCORD", "ROBLOX", "MINECRAFT", "GPU CACHE"],
-    "tweak": ["GAME MODE", "POWER BOOST", "DVR OFF", "RAM CLEAN", "GPU ACCEL"],
-    "settings": ["ЦВЕТА", "GUI (ДАТА)", "ЯЗЫК", "ПОЛНЫЙ СБРОС"]
+    "main": ["ОЧИСТКА", "ОПТИМИЗАЦИЯ", "НАСТРОЙКИ", "СИСТЕМА"],
+    "colors": ["Синий", "Зеленый", "Циан", "Красный", "Пурпур", "Желтый", "Белый", "Серый", "Л-Синий", "Л-Зеленый", "Л-Циан", "Л-Красный", "Розовый", "Л-Желтый", "Я-Белый", "Оранж", "Золото", "Бирюза", "Маджента", "Кислотный"],
+    "clean": [
+      "Temp файлы", "DNS кэш", "Корзина", "Prefetch", "Логи Windows", "Shader кэш", "Chrome кэш", "Win Update", "Thumbnail кэш", "Recent файлы",
+      "MS Store кэш", "Error reports", "DirectX кэш", "Steam кэш", "Discord кэш", "Spotify кэш", "Delivery Opt", "BranchCache", "Defender Scan", "ГЛУБОКАЯ ЧИСТКА"
+    ],
+    "tweak": [
+      "Game Mode", "Power Boost", "DVR Выкл", "Restart Exp", "GPU Accel", "TCP Opt", "Network S.", "RAM Limit", "DEP Выкл", "Hibernation",
+      "Telemetery", "Transparency", "DVR App Off", "Mouse Accel", "Prefetch Off", "Kernel Tick", "Spectre/Meltdown", "UAC Notify", "Context Menu", "ULTRABOOST"
+    ],
+    "ui": {
+      "exit": "ВЫХОД",
+      "back": "НАЗАД",
+      "process": "ПРОЦЕСС",
+      "already_clean": "УЖЕ ЧИСТО",
+      "delete": "УДАЛЕНИЕ",
+      "working": "ВЫПОЛНЕНИЕ",
+      "done": "ГОТОВО",
+      "lang_tag": "ЯЗЫК",
+      "change_lang": "СМЕНИТЬ ЯЗЫК"
+    }
   },
   "EN": {
-    "main": ["CLEANER", "TWEAKER", "SETTINGS", "INFO", "EXIT"],
-    "nav": ["BACK", "DONE"],
-    "clean": ["CACHE (GAMES)", "SYSTEM", "CS2/STEAM", "DISCORD", "ROBLOX", "MINECRAFT", "GPU CACHE"],
-    "tweak": ["GAME MODE", "POWER BOOST", "DVR OFF", "RAM CLEAN", "GPU ACCEL"],
-    "settings": ["COLORS", "GUI (DATE)", "LANGUAGE", "FULL RESET"]
-  },
-  "BY": {
-    "main": ["КЛІНЕР", "ТВІКЕР", "НАЛАДЫ", "ІНФО", "ВЫХАД"],
-    "nav": ["НАЗАД", "ГАТОВА"],
-    "clean": ["КЭШ (ГУЛЬНІ)", "СІСТЭМА", "CS2/STEAM", "DISCORD", "ROBLOX", "MINECRAFT", "GPU CACHE"],
-    "tweak": ["GAME MODE", "POWER BOOST", "DVR OFF", "RAM CLEAN", "GPU ACCEL"],
-    "settings": ["КОЛЕРЫ", "GUI (ДАТА)", "МОВА", "ПОЎНЫ СКІД"]
+    "main": ["CLEANER", "TWEAKER", "SETTINGS", "SYSTEM"],
+    "colors": ["Blue", "Green", "Cyan", "Red", "Purple", "Yellow", "White", "Gray", "L-Blue", "L-Green", "L-Cyan", "L-Red", "Pink", "L-Yellow", "B-White", "Orange", "Gold", "Turq.", "Magenta", "Acid"],
+    "clean": [
+      "Temp Files", "DNS Cache", "Recycle Bin", "Prefetch", "Win Logs", "Shader Cache", "Chrome Cache", "Win Update", "Thumbnails", "Recent Files",
+      "Store Cache", "Error Reports", "DirectX Cache", "Steam Cache", "Discord Cache", "Spotify Cache", "Delivery Opt", "BranchCache", "Defender Cl.", "DEEP CLEAN"
+    ],
+    "tweak": [
+      "Game Mode", "Power Boost", "DVR Off", "Restart Exp", "GPU Accel", "TCP Opt", "Network S.", "RAM Limit", "DEP Off", "Hibernation",
+      "Telemetery", "Transparency", "DVR App Off", "Mouse Accel", "Prefetch Off", "Kernel Tick", "Spectre/Meltdown", "UAC Notify", "Context Menu", "ULTRABOOST"
+    ],
+    "ui": {
+      "exit": "EXIT",
+      "back": "BACK",
+      "process": "PROCESS",
+      "already_clean": "CLEAN",
+      "delete": "DELETING",
+      "working": "WORKING",
+      "done": "DONE",
+      "lang_tag": "LANG",
+      "change_lang": "CHANGE LANGUAGE"
+    }
   }
 }
