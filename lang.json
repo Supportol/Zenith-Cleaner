@@ -1,0 +1,23 @@
+{
+  "RU": {
+    "main": ["КЛИНЕР", "ТВИКЕР", "НАСТРОЙКИ", "ИНФО", "ВЫХОД"],
+    "nav": ["НАЗАД", "ГОТОВО"],
+    "clean": ["КЭШ (ИГРЫ)", "СИСТЕМА", "CS2/STEAM", "DISCORD", "ROBLOX", "MINECRAFT", "GPU CACHE"],
+    "tweak": ["GAME MODE", "POWER BOOST", "DVR OFF", "RAM CLEAN", "GPU ACCEL"],
+    "settings": ["ЦВЕТА", "GUI (ДАТА)", "ЯЗЫК", "ПОЛНЫЙ СБРОС"]
+  },
+  "EN": {
+    "main": ["CLEANER", "TWEAKER", "SETTINGS", "INFO", "EXIT"],
+    "nav": ["BACK", "DONE"],
+    "clean": ["CACHE (GAMES)", "SYSTEM", "CS2/STEAM", "DISCORD", "ROBLOX", "MINECRAFT", "GPU CACHE"],
+    "tweak": ["GAME MODE", "POWER BOOST", "DVR OFF", "RAM CLEAN", "GPU ACCEL"],
+    "settings": ["COLORS", "GUI (DATE)", "LANGUAGE", "FULL RESET"]
+  },
+  "BY": {
+    "main": ["КЛІНЕР", "ТВІКЕР", "НАЛАДЫ", "ІНФО", "ВЫХАД"],
+    "nav": ["НАЗАД", "ГАТОВА"],
+    "clean": ["КЭШ (ГУЛЬНІ)", "СІСТЭМА", "CS2/STEAM", "DISCORD", "ROBLOX", "MINECRAFT", "GPU CACHE"],
+    "tweak": ["GAME MODE", "POWER BOOST", "DVR OFF", "RAM CLEAN", "GPU ACCEL"],
+    "settings": ["КОЛЕРЫ", "GUI (ДАТА)", "МОВА", "ПОЎНЫ СКІД"]
+  }
+}
